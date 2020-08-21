@@ -127,9 +127,12 @@ _ReSharper*/
 *.[Rr]e[Ss]harper
 *.DotSettings.user
 
+<<<<<<< HEAD
 # JustCode is a .NET coding add-in
 .JustCode
 
+=======
+>>>>>>> c825c47517e2831edafee71b7563da509ae338c8
 # TeamCity is a build add-in
 _TeamCity*
 
